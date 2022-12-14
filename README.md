@@ -31,7 +31,7 @@
 ## Как развернуть проект
 
 Сначала склоньте проект в рабочую директорию на своем локальном ПК. Для этого вы можете воспользоваться следующей командой:
-`git clone https://username:password@github.com/KaterinaStrukova/memes.git`
+`git clone https://username:password@github.com/Fortech-Nvch/memes-api-frontend.git`
 
 где
 * username - это ваше имя пользователя на github
